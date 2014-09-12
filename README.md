@@ -8,10 +8,10 @@ The main goal is to help others to easily implement new plugins, new layouts and
 
 ### First Steps
 
-Map the whole project ZnoteAAC to adapt it for design patterns including MVC to help the creation of a modularized version of the that AAC.
+Map the whole project ZnoteAAC to adapt it for design patterns, including MVC to help the creation of a modularized version of the that AAC.
 
 ### DataBases
-**Database Setup:**
-**Module Choice:**
-**Default TFS Templates:** 
-**Custom Database:**
+**Database Setup:** Simplified database instalation.
+**Module Choice:** Add modules to choose, like: news system, shop system, forums, wars, etc.
+**Default TFS Templates:** Automatically create database entries for TFSs servers.
+**Custom Database:** Optional database elements: poketibia, naruto, bombermans...
