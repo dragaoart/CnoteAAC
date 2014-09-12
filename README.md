@@ -12,6 +12,9 @@ Map the whole project ZnoteAAC to adapt it for design patterns, including MVC to
 
 ### DataBases
 **Database Setup:** Simplified database instalation.
+
 **Module Choice:** Add modules to choose, like: news system, shop system, forums, wars, etc.
+
 **Default TFS Templates:** Automatically create database entries for TFSs servers.
+
 **Custom Database:** Optional database elements: poketibia, naruto, bombermans...
